@@ -1,0 +1,23 @@
+[33mcommit 446d5a09d73bb1390a87cec2b843280fa9e1ccc7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marjan Klarica <dummy@hyperion.com>
+Date:   Sat May 21 19:15:40 2022 +0200
+
+    updated test.txt
+
+[33mcommit cfa2e7c2b48755ff46825e36b6f3ba3b1e73c4ef[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Marjan Klarica <dummy@hyperion.com>
+Date:   Sat May 21 19:12:02 2022 +0200
+
+    added new feature
+
+[33mcommit 47f0a8e0cf2d00b1478b1d9413cdbdbb2cabf68a[m
+Author: Marjan Klarica <dummy@hyperion.com>
+Date:   Sat May 21 15:34:52 2022 +0200
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 26e1e71b2c97143731b8fe1e39780aa80e05e7da[m
+Author: Marjan Klarica <dummy@hyperion.com>
+Date:   Sat May 21 15:20:37 2022 +0200
+
+    added text.txt file
